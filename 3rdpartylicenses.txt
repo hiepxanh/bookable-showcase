@@ -51,7 +51,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+<<<<<<< HEAD
 @angular/flex-layout@6.0.0-beta.17
+=======
+@angular/material@6.4.7
+>>>>>>> 01dab95df016a3420f218cc5a48ec941cd5a6bf5
 MIT
 The MIT License
 
@@ -75,7 +79,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@angular/platform-browser@6.1.0
+@angular/platform-browser@6.1.7
 MIT
 MIT
 
@@ -137,11 +141,11 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 END OF TERMS AND CONDITIONS
 
-@angular/common@6.1.0
+@angular/common@6.1.7
 MIT
 MIT
 
-rxjs@6.2.2
+rxjs@6.3.2
 Apache-2.0
 Apache License
                          Version 2.0, January 2004
@@ -345,11 +349,15 @@ Apache License
  See the License for the specific language governing permissions and
  limitations under the License.
 
-@angular/router@6.1.0
+@angular/router@6.1.7
 MIT
 MIT
 
-@angular/material@6.4.2
+@angular/animations@6.1.7
+MIT
+MIT
+
+@angular/cdk@6.4.7
 MIT
 The MIT License
 
@@ -373,6 +381,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+<<<<<<< HEAD
 @angular/animations@6.1.0
 MIT
 MIT
@@ -402,10 +411,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 @angular/core@6.1.0
+=======
+@angular/core@6.1.7
+>>>>>>> 01dab95df016a3420f218cc5a48ec941cd5a6bf5
 MIT
 MIT
 
-flatpickr@4.5.1
+flatpickr@4.5.2
 MIT
 The MIT License (MIT)
 
@@ -429,6 +441,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-@angular/forms@6.1.0
+@angular/forms@6.1.7
 MIT
 MIT
